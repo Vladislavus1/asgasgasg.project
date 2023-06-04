@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'blog',
     'reset_migrations',
+    'authorization',
+    'widget_tweaks'
 ]
 
 MIDDLEWARE = [
